@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a software developer with extensive experience in various technologies, including TypeScript, Node.js, and SQL. I have a solid foundation in working with database systems and a passion for learning and expanding my technical skills. I am currently seeking opportunities to stabilize and deepen my existing knowledge in a dynamic and innovative environment, where I can contribute to the development of high-quality software.
 
 <!--
 **brocklj/brocklj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
